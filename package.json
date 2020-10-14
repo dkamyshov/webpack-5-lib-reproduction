@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "prepare": "webpack",
+    "no-name": "webpack --config webpack.config.no-name.js"
+  },
+  "dependencies": {
+    "webpack": "^4",
+    "webpack-cli": "^3"
+  }
+}
